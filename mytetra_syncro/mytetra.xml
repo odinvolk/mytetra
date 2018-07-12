@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1300000000aaaaaaaaa1" name="Rename me">
+   <recordtable>
+    <record id="1300000000aaaaaaaaa3" name="Welcome to MyTetra!" author="" url="" tags="MyTetra, Qt" ctime="20081210124656" dir="1300000000aaaaaaaaa2" file="text.html"/>
+   </recordtable>
+   <node crypt="" id="1531379255kiio437n3o" name="366346">
+    <recordtable>
+     <record id="1531379294zgyff6l28g" name="sawdfthf" author="erfe" url="dfdc" tags="dcdcdcdc" ctime="20180712100814" dir="1531379294nbrna2oakv" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="153137926103ujqryrq8" name="366633">
+    <recordtable>
+     <record id="1531379282lm0zb1j1r9" name="th4gt" author="tgrgrtg" url="rtgtrgtrg" tags="tgrtgtg" ctime="20180712100802" dir="1531379282ccu289cnv5" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="1526370382csxxerzw4d" name="1">
+   <recordtable>
+    <record id="1531379308h2p0248odz" name="rt134t" author="23sd" url="444" tags="egvhyni654334" ctime="20180712100828" dir="1531379308hklvzg21yq" file="text.html"/>
+   </recordtable>
+  </node>
+ </content>
+</root>
